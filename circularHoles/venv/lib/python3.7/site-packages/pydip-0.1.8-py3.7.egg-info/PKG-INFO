@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pydip
+Version: 0.1.8
+Summary: Adjudication logic engine for Diplomacy board game
+Home-page: https://github.com/aparkins/pydip
+Author: Aric Parkinson
+Author-email: aric.parkinson@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/aparkins/pydip/tarball/0.1.6
+Description: UNKNOWN
+Keywords: diplomacy,adjudication,adjudicator,board,game
+Platform: UNKNOWN
